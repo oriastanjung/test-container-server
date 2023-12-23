@@ -1,0 +1,1 @@
+{"name":"O. Riastanjung","email":"oriastan999@gmail.com","retype_email":"oriastan999@gmail.com","redhat_username":"oriastan","country":"Indonesia","certification_number":"","consent":false}
